@@ -10,11 +10,11 @@
 
  ## modo mando y control
 
-![Captura modo cielo](CapturaCielo.png)
+![Captura modo cielo](CapturaCielo.PNG)
 
  ## modo google-mapas
 
-![Captura modo tierra](CapturaTierra.png)
+![Captura modo tierra](CapturaTierra.PNG)
 
 ## Nota: 
 
